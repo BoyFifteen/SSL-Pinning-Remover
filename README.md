@@ -15,4 +15,4 @@ This project provides a Python script to automate **SSL pinning bypass** for And
 
 ## TeleGram Channel
 
-- https://t.me/WhisperVIP
+- https:https://t.me/BoyFifteen
