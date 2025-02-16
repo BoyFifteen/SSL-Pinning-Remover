@@ -7,7 +7,7 @@ This project provides a Python script to automate **SSL pinning bypass** for And
 - Checks for Node.js and OpenJDK installations. 
 - Automatically installs `apk-mitm` if missing. 
 - User-friendly input for APK file paths and output directories.
-
+ 
 ## Requirements
 - **Python 3.x**
 - **Node.js**: [Download Node.js](https://nodejs.org/)
