@@ -15,4 +15,4 @@ This project provides a Python script to automate **SSL pinning bypass** for And
 
 ## TeleGram Channel
 
-- [Whisper](https://t.me/Old_SCHOOL_Team)
+- [Whisper](https://t.me/WhisperLegendary)
