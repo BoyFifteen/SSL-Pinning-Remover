@@ -1,5 +1,4 @@
 # APK-MITM Automation with Python
-
 This project provides a Python script to automate **SSL pinning bypass** for Android APKs using the `apk-mitm` tool. It ensures smooth interaction with the tool by handling dependencies, verifying APK paths, and allowing easy user input for file paths.
 
 ## Features
